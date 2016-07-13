@@ -485,6 +485,7 @@
         <module>addons/storm-bridge</module>
 	
         <module>distro</module>
+        <module>samples</module>
     </modules>
 
     <repositories>
